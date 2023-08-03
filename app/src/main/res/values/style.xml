@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="main_recycler_view">
+        <item name="android:layout_width">@dimen/_250sdp</item>
+        <item name="android:layout_height">@dimen/_485sdp</item>
+        <item name="android:layout_marginTop">@dimen/_30sdp</item>
+        <item name="android:scrollbars">vertical</item>
+    </style>
+
+</resources>
