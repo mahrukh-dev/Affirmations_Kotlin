@@ -9,6 +9,11 @@ The Affirmations app is a simple Android application that displays positive affi
 - Utilize an adapter class to bind the affirmation data to the RecyclerView.
 - Define a data class `Affirmation` to represent each affirmation item with a string resource ID as a parameter.
 - Create a `DataSource` class to load affirmations and provide them to the RecyclerView.
+- AffirmationsListTests.kt -- UI testing
+- AffirmationAdapterTest.kt -- Unit Test
+- changed launcher Icon
+- Themes for Dark mode and light mode
+- Style, Color, String file maintained
 
 
 
